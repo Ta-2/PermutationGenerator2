@@ -1,0 +1,117 @@
+Permutation of "CRYPTO" using nextPermutation
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+time:0.000949
+
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+time:0.000747
+
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+source.size: 7, result.capacity: 7
+source.size: 8, result.capacity: 8
+source.size: 9, result.capacity: 9
+time:0.196156
+
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+source.size: 7, result.capacity: 7
+source.size: 8, result.capacity: 8
+source.size: 9, result.capacity: 9
+time:0.130948
+
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+source.size: 7, result.capacity: 7
+source.size: 8, result.capacity: 8
+source.size: 9, result.capacity: 9
+source.size: 10, result.capacity: 10
+time:2.025997
+
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+source.size: 7, result.capacity: 7
+source.size: 8, result.capacity: 8
+source.size: 9, result.capacity: 9
+source.size: 10, result.capacity: 10
+time:1.324819
+
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+source.size: 7, result.capacity: 7
+source.size: 8, result.capacity: 8
+source.size: 9, result.capacity: 9
+source.size: 10, result.capacity: 10
+source.size: 11, result.capacity: 11
+time:25.157203
+
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+source.size: 7, result.capacity: 7
+source.size: 8, result.capacity: 8
+source.size: 9, result.capacity: 9
+source.size: 10, result.capacity: 10
+source.size: 11, result.capacity: 11
+time:16.780585
+
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+source.size: 7, result.capacity: 7
+source.size: 8, result.capacity: 8
+source.size: 9, result.capacity: 9
+source.size: 10, result.capacity: 10
+source.size: 11, result.capacity: 11
+source.size: 12, result.capacity: 12
+time:326.839991
+
+source.size: 1, result.capacity: 1
+source.size: 2, result.capacity: 2
+source.size: 3, result.capacity: 3
+source.size: 4, result.capacity: 4
+source.size: 5, result.capacity: 5
+source.size: 6, result.capacity: 6
+source.size: 7, result.capacity: 7
+source.size: 8, result.capacity: 8
+source.size: 9, result.capacity: 9
+source.size: 10, result.capacity: 10
+source.size: 11, result.capacity: 11
+source.size: 12, result.capacity: 12
+time:215.61131
+
