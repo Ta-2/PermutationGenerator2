@@ -10,7 +10,7 @@ FILE *fp;
 void measure_time(string, int);
 
 class PerGen{
-private:
+protected:
 	int _souLen = 0, _resLen = 0, _residual = 0, *_nowCnt;
 	char temp;
 	queue<char> _source;
@@ -53,6 +53,17 @@ public:
 	}
 
 	string GetResult(){ return _result; }
+};
+
+class asyncPerGen : protected PerGen{
+private:
+	string str;
+public:
+	asyncPerGen() = delete;
+	asyncPerGen(string input, int resLen): PerGen(input, resLen)
+	{ str = input; }
+	~asyncPerGen() = default;
+
 };
 
 int main(int argc, char *argv[]){
